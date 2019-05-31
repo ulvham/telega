@@ -1,4 +1,5 @@
 // main.go
+//http://petstore.swagger.io/?url=https://raw.githubusercontent.com/olebedev/go-tgbot/master/swagger.yaml#/updates/getUpdates
 package main
 
 import (
